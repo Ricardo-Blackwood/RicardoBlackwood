@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo! <br/><a >CyberSecurity Student</a> & <a > IT Professional</a> 
+<h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Student</a> & <a > IT Professional</a> 
 <h2>👨‍💻 System Administration/IT Support Projects:</h2>
 
 - <b>Active Directory HomeLab (VMware workstation)</b>
