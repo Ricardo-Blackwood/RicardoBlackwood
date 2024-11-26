@@ -3,21 +3,14 @@
 
 - <b>Active Directory HomeLab (VMware workstation)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b> Creating Database AWS (Cloud project for school)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <h2>📄Certifications</h2>
-  - [Comptia Security+ Ce] (https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+   CompTIA Security+ SY0-701
+  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RicardoBlackwood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+LinkedIn - www.linkedin.com/in/ricardoblackwood
 
 [linkedin]: www.linkedin.com/in/ricardoblackwood
 
