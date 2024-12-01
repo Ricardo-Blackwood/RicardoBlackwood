@@ -3,7 +3,7 @@
 
 - <b>Active Directory HomeLab (VMware workstation)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> Creating Database AWS (Cloud project for school)</b>
+- <b> Creating VPC with AWS (Cloud project for school)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <h2>📄Certifications</h2>
    CompTIA Security+ SY0-701
