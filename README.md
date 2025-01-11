@@ -13,7 +13,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 - <b> HoneyPot setup with in pentbox (kali linux)</b>
   - https://github.com/Ricardo-Blackwood/Honeypot/blob/main/README.md
 - <b>Windows 10 Installation (windows 10 pro)</b>
-  - (https://github.com/Ricardo-Blackwood/Windows-10-installation/blob/main/README.md)
+  - https://github.com/Ricardo-Blackwood/Windows-10-installation/blob/main/README.md
 - <b>Windows server account management (Windows server 2019)</b>
   - https://github.com/Ricardo-Blackwood/Windows-server-account-management
  - <b>Enforcing password complexity (VMware workstation)</b>
@@ -31,7 +31,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
    https://github.com/Ricardo-Blackwood/Degree-Certifications-/blob/main/README.md
   
   - <h2>📄Resume</h2>
-   - (https://github.com/Ricardo-Blackwood/Resume/blob/main/README.md)
+   - https://github.com/Ricardo-Blackwood/Resume/blob/main/README.md
   
 <h2> 🤳 Connect with me:</h2>
 
