@@ -11,7 +11,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 
 
 - <b>Windows 10 Installation (windows 10 pro)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/Ricardo-Blackwood/Windows-10-installation/blob/main/README.md)
 - <b>Windows server account management (Windows server 2019)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  - <b>Enforcing password complexity (VMware workstation)</b>
