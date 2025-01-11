@@ -20,7 +20,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Any project that uses wireshark (VMware workstation)</b>
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> any project (kali linux)</b>
+- <b> HoneyPot setup with in bentbox (kali linux)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <h2>📄Certifications</h2>
