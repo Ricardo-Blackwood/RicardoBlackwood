@@ -21,10 +21,11 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 - <b>Any project that uses wireshark (VMware workstation)</b>
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> HoneyPot setup with in bentbox (kali linux)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - https://github.com/Ricardo-Blackwood/Honeypot/blob/main/README.md
 
 - <h2>📄Certifications</h2>
    CompTIA Security+, Comptia Network+, Comptia A+ and Az-900
+   https://github.com/Ricardo-Blackwood/Degree-Certifications-/blob/main/README.md
   
 <h2> 🤳 Connect with me:</h2>
 
