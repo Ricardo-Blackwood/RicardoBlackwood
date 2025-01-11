@@ -25,6 +25,8 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 
 - <h2>📄Certifications</h2>
    CompTIA Security+, Comptia Network+, Comptia A+ and Az-900
+
+   
    https://github.com/Ricardo-Blackwood/Degree-Certifications-/blob/main/README.md
   
 <h2> 🤳 Connect with me:</h2>
