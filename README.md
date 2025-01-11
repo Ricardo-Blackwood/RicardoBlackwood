@@ -30,6 +30,9 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
    
    https://github.com/Ricardo-Blackwood/Degree-Certifications-/blob/main/README.md
   
+  - <h2>📄Resume</h2>
+
+  
 <h2> 🤳 Connect with me:</h2>
 
 LinkedIn - www.linkedin.com/in/ricardoblackwood
