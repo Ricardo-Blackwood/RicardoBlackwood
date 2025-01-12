@@ -21,7 +21,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 - <b>Linux file management and directory creation (kali linux)</b>
   - https://github.com/Ricardo-Blackwood/Linux-file-management-and-directory-creation/blob/main/README.md
 - <b>Packet analysis with wireshark (VMware workstation)</b>
-   - Coming soon.
+   - (https://github.com/Ricardo-Blackwood/Packet-analysis-with-wireshark)
 
 
 - <h2>📄Certifications</h2>
