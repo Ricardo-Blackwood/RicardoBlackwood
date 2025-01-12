@@ -5,7 +5,7 @@ Senior at the University of Maryland global campus pursuing a bachelors of cyber
 
 I hold the Az-900 (Azure Fundamentals) Certification which confirms my understanding of the basics of cloud computing, back by relevant classes at school like Cloud Technology, I focused on Administration in the cloud using tools like Azure and AWS.
 
-My Hands-on experience through internships and Personal Projects has allowed me to leverage my knowledge in a practical environment. I have been exposed to numerous tools and operating systems which include, systems like Windows, Windows Server, and linux (Red Hat, Ubuntu, and Kali). Tools like Nmap, Wireshark, snort, OpenVAS, Azure CLI, Bash, PowerShell, and Os Ticketing have also been added to my arsenal. 
+My Hands-on experience through internships and Personal Projects has allowed me to leverage my knowledge in a practical environment. I have been exposed to numerous tools and operating systems which include, systems like Windows, Windows Server, and linux (Red Hat, Ubuntu, and Kali). Tools like Nmap, Wireshark, snort, OpenVAS, Nessus, Azure CLI, Bash CLI, and Os Ticketing have also been added to my arsenal. 
 
 Transitioning out of the US Army, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
 
