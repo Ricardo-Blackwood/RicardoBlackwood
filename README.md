@@ -17,7 +17,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 - <b>Windows server account management (Windows server 2019)</b>
   - https://github.com/Ricardo-Blackwood/Windows-server-account-management
  - <b>Enforcing password complexity (VMware workstation)</b>
-   - Coming soon..
+   - https://github.com/Ricardo-Blackwood/Enforcing-password-complexity/blob/main/README.md
 - <b>Linux file management and directory creation (kali linux)</b>
   - https://github.com/Ricardo-Blackwood/Linux-file-management-and-directory-creation/blob/main/README.md
 - <b>Packet analysis with wireshark (VMware workstation)</b>
