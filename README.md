@@ -10,22 +10,24 @@ My Hands-on experience through internships and Personal Projects has allowed me 
 Transitioning out of the US Army, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
 
 
-- <b> HoneyPot setup with in pentbox (kali linux)</b>
+- <b> HoneyPot setup with in pentbox </b>
   - https://github.com/Ricardo-Blackwood/Honeypot/blob/main/README.md
-- <b>Windows 10 Installation (windows 10 pro)</b>
+- <b>Windows 10 Installation</b>
   - https://github.com/Ricardo-Blackwood/Windows-10-installation/blob/main/README.md
-- <b>Windows server account management (Windows server 2019)</b>
+- <b>Windows server account management</b>
   - https://github.com/Ricardo-Blackwood/Windows-server-account-management
- - <b>Enforcing password complexity (VMware workstation)</b>
+ - <b>Enforcing password complexity</b>
    - https://github.com/Ricardo-Blackwood/Enforcing-password-complexity/blob/main/README.md
-- <b>Linux file management and directory creation (kali linux)</b>
+- <b>Linux file management and directory creation</b>
   - https://github.com/Ricardo-Blackwood/Linux-file-management-and-directory-creation/blob/main/README.md
-- <b>Packet analysis with wireshark (VMware workstation)</b>
+- <b>Packet analysis with wireshark</b>
    - https://github.com/Ricardo-Blackwood/Packet-analysis-with-wireshark
-- <b> System Backup and Restoration (VMware workstation)</b>
+- <b> System Backup and Restoration</b>
    - https://github.com/Ricardo-Blackwood/Backup-and-Restoration-/blob/main/README.md
-- <b> Nessus Vulnerability scan (School lab) </b>
+- <b> Nessus Vulnerability scan</b>
    - https://github.com/Ricardo-Blackwood/Nessus-Vulnerability-scan/blob/main/README.md
+ - <b> Firewall Configuration</b>
+   - https://github.com/Ricardo-Blackwood/Firewall-Configuration/edit/main/README.md
 
 - <h2>📄Certifications</h2>
    CompTIA Security+, Comptia Network+, Comptia A+ and Az-900
