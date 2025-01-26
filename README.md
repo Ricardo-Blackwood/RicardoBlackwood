@@ -27,7 +27,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
 - <b> Nessus Vulnerability scan</b>
    - https://github.com/Ricardo-Blackwood/Nessus-Vulnerability-scan/blob/main/README.md
  - <b> Firewall Configuration</b>
-   - https://github.com/Ricardo-Blackwood/Firewall-Configuration/edit/main/README.md
+   - https://github.com/Ricardo-Blackwood/Firewall-Configuration
 
 - <h2>📄Certifications</h2>
    CompTIA Security+, Comptia Network+, Comptia A+ and Az-900
