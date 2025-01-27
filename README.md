@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Student</a> & <a > IT Professional</a> 
   
 <h2>👨‍💻 Cybersecurity/System Administration Projects:</h2>
-Senior at the University of Maryland global campus pursuing a bachelors of cybersecurity focusing on cyber defense and system administration. I have a strong foundation in Windows and linux operating systems backed by my CompTIA Security +, Network +, and A+ certifications. Additionally, I have an Active Secret Clearance with the ability to obtain a TS/SCI. 
+Senior at the University of Maryland global campus pursuing a bachelors of cybersecurity, focusing on cyber defense and system administration. I have a strong foundation in Windows and linux operating systems backed by my CompTIA Security +, Network +, and A+ certifications. Additionally, I have an Active Secret Clearance with the ability to obtain a TS/SCI. 
 
 I hold the Az-900 (Azure Fundamentals) Certification which confirms my understanding of the basics of cloud computing, back by relevant classes at school like Cloud Technology, I focused on Administration in the cloud using tools like Azure and AWS.
 
