@@ -29,7 +29,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
  - <b> Firewall Configuration</b>
    - https://github.com/Ricardo-Blackwood/Firewall-Configuration
 - <b> Malware Scanning & Threat Analysis</b>
-   - (https://github.com/Ricardo-Blackwood/Malware-Scanning-Threat-Analysis/blob/main/README.md)
+   - https://github.com/Ricardo-Blackwood/Malware-Scanning-Threat-Analysis/blob/main/README.md
 - <h2>📄Certifications</h2>
    CompTIA Security+, Comptia Network+, Comptia A+ and Az-900
 
