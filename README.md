@@ -32,8 +32,7 @@ Transitioning out of the US Army, I am looking to bring my skills to a dynamic t
    - https://github.com/Ricardo-Blackwood/Malware-Scanning-Threat-Analysis/blob/main/README.md
 - <b> Securing Wifi-Hotspot</b>
    - https://github.com/Ricardo-Blackwood/Securing-WIfi-Hotspot/blob/main/README.md
-- <b> Securing Wifi-Hotspot</b>
-   - https://github.com/Ricardo-Blackwood/Securing-WIfi-Hotspot/blob/main/README.md
+
 
 - <h2>📄Certifications</h2>
    CompTIA Security+, Comptia Network+, Comptia A+ and Az-900
