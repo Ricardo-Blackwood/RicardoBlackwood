@@ -1,6 +1,7 @@
 <h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Student</a> & <a > IT Professional</a> 
   
 <h2>👨‍💻 Cybersecurity/System Administration Projects:</h2>
+
 ✅ University of Maryland Global Campus Alumni holding a bachelor's degree in cybersecurity, focusing on cyber defense and system administration. Bringing hands-on experience in threat detection, incident response, and access management through military service, internships, and academic projects. Familiarity with tools such as Microsoft 365, Microsoft Sentinel, Tenable Nessus, and Azure Entra ID. 
 
 
