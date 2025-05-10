@@ -1,13 +1,14 @@
 <h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Student</a> & <a > IT Professional</a> 
   
 <h2>👨‍💻 Cybersecurity/System Administration Projects:</h2>
-Senior at the University of Maryland global campus pursuing a bachelors of cybersecurity, focusing on cyber defense and system administration. I have a strong foundation in Windows and linux operating systems backed by my CompTIA Security +, Network +, and A+ certifications. Additionally, I have an Active Secret Clearance with the ability to obtain a TS/SCI. 
+✅ University of Maryland Global Campus Alumni holding a bachelor's degree in cybersecurity, focusing on cyber defense and system administration. Bringing hands-on experience in threat detection, incident response, and access management through military service, internships, and academic projects. Familiarity with tools such as Microsoft 365, Microsoft Sentinel, Tenable Nessus, and Azure Entra ID. 
 
-I hold the Az-900 (Azure Fundamentals) Certification which confirms my understanding of the basics of cloud computing, back by relevant classes at school like Cloud Technology, I focused on Administration in the cloud using tools like Azure and AWS.
+✅ DoD 8570 IAT Level I & IAT level II compliant, with an understanding of RMF and NIST cybersecurity frameworks to guide secure system development. Known for discipline, adaptability, and a strong work ethic. I'm eager to contribute to a collaborative cybersecurity team while continuing to grow professionally. I have an Active Secret Clearance with the ability to obtain a TS/SCI. 
 
-My Hands-on experience through internships and Personal Projects has allowed me to leverage my knowledge in a practical environment. I have been exposed to numerous tools and operating systems which include, systems like Windows, Windows Server, and linux (Ubuntu, and Kali). Tools like Wireshark, Snort, OpenVAS, Nessus, Azure CLI, Bash CLI, and Os Ticketing have also been added to my arsenal. 
+✅ My Active Certifications Include: CompTIA Security+, CompTIA Network+, CompTIA A+, Az-900 (Azure Fundamentals) and SC-900 Certification. 
 
-Transitioning out of the US Army, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
+
+✅ Transitioning out of the US Army, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
 
 
 - <b> HoneyPot setup with in pentbox </b>
