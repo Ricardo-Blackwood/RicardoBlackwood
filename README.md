@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity/System Administration Projects:</h2>
 ✅ University of Maryland Global Campus Alumni holding a bachelor's degree in cybersecurity, focusing on cyber defense and system administration. Bringing hands-on experience in threat detection, incident response, and access management through military service, internships, and academic projects. Familiarity with tools such as Microsoft 365, Microsoft Sentinel, Tenable Nessus, and Azure Entra ID. 
 
+
 ✅ DoD 8570 IAT Level I & IAT level II compliant, with an understanding of RMF and NIST cybersecurity frameworks to guide secure system development. Known for discipline, adaptability, and a strong work ethic. I'm eager to contribute to a collaborative cybersecurity team while continuing to grow professionally. I have an Active Secret Clearance with the ability to obtain a TS/SCI. 
 
 ✅ My Active Certifications Include: CompTIA Security+, CompTIA Network+, CompTIA A+, Az-900 (Azure Fundamentals) and SC-900 Certification. 
