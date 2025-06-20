@@ -51,7 +51,7 @@
    https://github.com/Ricardo-Blackwood/Degree-Certifications-/blob/main/README.md
   
   - <h2>📄Resume</h2>
-   - https://github.com/Ricardo-Blackwood/Resume/blob/main/README.md
+   - 
   
 <h2> 🤳 Connect with me:</h2>
 
