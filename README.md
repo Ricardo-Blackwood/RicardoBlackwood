@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Engineer</a> & <a > Linux administration</a> 
+<h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Engineer</a> & <a > Cloud Security Engineer</a> 
   
 <h2>👨‍💻 Cybersecurity | Master's Student, Cloud Computing:</h2>
 
