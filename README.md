@@ -1,16 +1,22 @@
 <h1>Hi, I'm Ricardo! <br/><a >Cybersecurity Engineer</a> & <a > Linux administration</a> 
   
-<h2>👨‍💻 Cybersecurity/System Administration Projects:</h2>
+<h2>👨‍💻 Cybersecurity | Master's Student, Cloud Computing:</h2>
 
-✅ University of Maryland Global Campus Alumni holding a bachelor's degree in cybersecurity, focusing on cyber defense and system administration. Bringing hands-on experience in threat detection, incident response, and access management through military service, internships, and academic projects. Familiarity with tools such as Microsoft 365, Microsoft Sentinel, Tenable Nessus, and Azure Entra ID. 
+🔐 Currently a Cybersecurity Engineer supporting DoD/RMF environments — STIG/SRG hardening, ACAS/Nessus vulnerability management, and RHEL administration across classified systems. Pursuing a master's degree focused on cloud computing, with hands-on lab work documented here.
 
+🛠️ **What I'm building:**
 
-✅ DoD 8570 IAT Level I & IAT level II compliant, with an understanding of RMF and NIST cybersecurity frameworks to guide secure system development. Known for discipline, adaptability, and a strong work ethic. I'm eager to contribute to a collaborative cybersecurity team while continuing to grow professionally. I have an Active Secret Clearance with the ability to obtain a TS/SCI. 
+Cloud security labs — published here as I complete each one.
+- Cloud Security
+- Identity and Access Management (IAM)
+- Cost Optimization
+- Storage and Disaster Recovery
 
-✅ My Active Certifications Include: CompTIA Security+, CompTIA Network+, CompTIA A+, Az-900 (Azure Fundamentals) and SC-900 Certification. 
+✅ **Background:** U.S. Army veteran with an active Secret clearance, DoD 8570 IAT Level I & II compliant, working knowledge of RMF/NIST frameworks. Experience spans threat detection, incident response, access management, and POA&M/eMASS documentation.
 
+📜 **Certifications:** RHCSA | CompTIA Security+, Network+, A+ | AZ-900 | SC-900 
 
-✅ Transitioning out of the US Army, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
+📫 Open to connecting with anyone working in cloud security or federal cloud environments.
 
 
 - <b> HoneyPot setup with in pentbox </b>
