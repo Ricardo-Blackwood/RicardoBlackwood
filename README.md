@@ -20,7 +20,9 @@ Cloud security labs — published here as I complete each one.
 
 
 <b> AWS Projects </b>
-
+- <b> aws-secure-static-site </b>
+   -
+     
 <b> Azure Projects </b>
 
 - <b> Enhancing Security & Efficiency with Self-Service Password Reset (SSPR) in Azure AD</b>
