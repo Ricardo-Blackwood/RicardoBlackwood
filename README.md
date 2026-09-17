@@ -19,6 +19,23 @@ Cloud security labs — published here as I complete each one.
 📫 Open to connecting with anyone working in cloud security or federal cloud environments.
 
 
+<b> AWS Projects </b>
+
+<b> Azure Projects </b>
+
+- <b> Enhancing Security & Efficiency with Self-Service Password Reset (SSPR) in Azure AD</b>
+   - https://github.com/Ricardo-Blackwood/Enhancing-Security-Efficiency-with-Self-Service-Password-Reset-SSPR-in-Entra-ID
+- <b> Malicious Inbox incident</b>
+   - https://github.com/Ricardo-Blackwood/-Malicious-Inbox-incident/blob/main/README.md
+- <b> Microsoft Sentinel IAM Access control</b>
+   - https://github.com/Ricardo-Blackwood/Microsoft-Sentinel-IAM-Access-control-/blob/main/README.md
+   - 
+<b> Linux Projects </b>
+
+
+<b> Old Labs </b>
+
+
 - <b> HoneyPot setup with in pentbox </b>
   - https://github.com/Ricardo-Blackwood/Honeypot/blob/main/README.md
 - <b>Windows 10 Installation</b>
@@ -41,12 +58,7 @@ Cloud security labs — published here as I complete each one.
    - https://github.com/Ricardo-Blackwood/Malware-Scanning-Threat-Analysis/blob/main/README.md
 - <b> Securing Wifi-Hotspot</b>
    - https://github.com/Ricardo-Blackwood/Securing-WIfi-Hotspot/blob/main/README.md
-- <b> Enhancing Security & Efficiency with Self-Service Password Reset (SSPR) in Azure AD</b>
-   - https://github.com/Ricardo-Blackwood/Enhancing-Security-Efficiency-with-Self-Service-Password-Reset-SSPR-in-Entra-ID
-- <b> Malicious Inbox incident</b>
-   - https://github.com/Ricardo-Blackwood/-Malicious-Inbox-incident/blob/main/README.md
-- <b> Microsoft Sentinel IAM Access control</b>
-   - https://github.com/Ricardo-Blackwood/Microsoft-Sentinel-IAM-Access-control-/blob/main/README.md
+
 
 
 
