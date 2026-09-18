@@ -20,7 +20,7 @@ Cloud security labs — published here as I complete each one.
 
 
 <b> AWS Projects </b>
-- <b> aws-secure-static-site </b>
+- <b> progress </b>
    -
      
 <b> Azure Projects </b>
